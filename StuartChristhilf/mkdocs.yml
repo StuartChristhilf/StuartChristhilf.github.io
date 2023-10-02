@@ -1,7 +1,7 @@
 site_name: Stuart Christhilf
 
 theme:
-    name: material
+    name: simple-blog
 
 nav:
   - Home: 'index.md'
