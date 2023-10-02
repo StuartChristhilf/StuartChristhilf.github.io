@@ -2,3 +2,7 @@ site_name: Stuart Christhilf
 
 theme:
     name: simple-blog
+
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
