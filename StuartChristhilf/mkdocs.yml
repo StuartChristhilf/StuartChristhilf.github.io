@@ -1,8 +1,11 @@
 site_name: Stuart Christhilf
 
 theme:
-    name: simple-blog
+    name: material
 
 nav:
   - Home: 'index.md'
   - About: 'about.md'
+
+markdown_extensions:
+  - attr_list
