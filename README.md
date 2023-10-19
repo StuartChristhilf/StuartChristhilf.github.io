@@ -1,8 +1,12 @@
 # StuartChristhilf.github.io
-Stuart Christhilf's portfolio.
+Stuart's remeber to do list.
 
-to update everything after making changes
-
+To make sure in correct 
+```
+cd StuartChristhilf.github.io
+cd StuartChristhilf
+```
+To update everything after making changes
 ```
 git add .
 git commit -m "message"
