@@ -7,7 +7,7 @@
 [![Engineering Projects](images/index/engineer.png)](Engineering.md)
 [![Coding Projects](images/index/code.jpg)](coding.md)
 
-In addition to the projects listed above, I've also been involved in various other fascinating endeavors. Feel free to explore my site to discover more about my journey and the exciting projects I've been a part of. Thank you for visiting!
+In addition to the project types listed above, I've also been involved in various other endeavors. Feel free to explore my site to discover more about my journey and the exciting projects I've been a part of. Thank you for visiting!
 
 
 
