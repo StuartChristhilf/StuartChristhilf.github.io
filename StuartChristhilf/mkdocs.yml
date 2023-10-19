@@ -6,6 +6,8 @@ theme:
 nav:
   - Home: 'index.md'
   - About: 'about.md'
+  - Engineering Projects: 'Engineering.md'
+  - Coding Projects: 'coding.md'
 
 markdown_extensions:
   - attr_list
