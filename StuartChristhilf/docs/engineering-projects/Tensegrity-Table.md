@@ -14,3 +14,6 @@ To begin, I needed to gain a deep understanding of how a tensegrity table operat
 
 In the diagram, you can see that the inner wire is the primary component responsible for supporting the table. The central wire bears the weight of the entire structure, while the corner wires prevent the table from toppling over by keeping it firmly in place. When these forces are combined, they create the illusion of a floating table.
 
+## creating proccess and result
+[Here](https://fabacademy.org/2023/labs/charlotte/students/stuart-christhilf/weeks/week-7/) is the link to my fab-page with the step by step of how I made this table and its final result.
+
