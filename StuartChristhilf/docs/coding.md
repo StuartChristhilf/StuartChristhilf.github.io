@@ -6,6 +6,7 @@
 Explore a variety of coding projects I've been involved in, including:
 
 [![turtle image](images/coding/thumbnails/TURTLE.png)](coding-projects/Turtle-Typer.md)
+[![pixle image](images/coding/thumbnails/gameoflife.png)](coding-projects/GamesOfLife.md)
 
 Dive into the details of these coding adventures, and feel free to explore more of my other journey's on the rest of my page. Your curiosity is welcomed!
 
