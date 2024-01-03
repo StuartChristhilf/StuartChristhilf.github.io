@@ -20,4 +20,4 @@ For "Continent Simulator," the grid evolves beyond a binary state. I introduced 
 In "Pixle Wars," the concept is further expanded with additional teams, each assigned a distinct color. The battles continue, creating a visually striking and dynamic display as the colors clash and territories evolve.
 
 ## Code
-Here is the [github link](https://github.com/StuartChristhilf/GameOfLife)
+Here is the [github link](https://github.com/StuartChristhilf/GameOfLife) for these projects.
